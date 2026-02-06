@@ -1,24 +1,24 @@
-# There is a cost
+# Il y a un coût
 
-## Pain of transparency
+## Le prix de la transparence
 
 ---
 
 ![](images/disturbing.png)
 
-## Remember this guy?
+## Vous vous souvenez de ce type ?
 
 ![Matt Gaetz](images/Matt_Gaetz_117th_Congress_portrait.jpeg)
 
-## Transparency
+## Transparence
 
 ![](images/19dc-gaetz-payments-superJumbo.png)
 
-## Closer to home (Feb 2025)
+## Plus près de chez nous (février 2025)
 
-![i4r on Bluesky](images/i4r-gdri-thread-bsky.png)
+![i4r sur Bluesky](images/i4r-gdri-thread-bsky.png)
 
 ---
 
-![i4r on replication packages](images/i4r-gdri-thread-bsky-2.png)
+![i4r sur les paquets de réplication](images/i4r-gdri-thread-bsky-2.png)
 

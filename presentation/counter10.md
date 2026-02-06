@@ -25,7 +25,7 @@ var x = setInterval(function() {
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "FINISHED";
+    document.getElementById("demo").innerHTML = "TERMINÉ";
   }
 }, 1000);
 </script>

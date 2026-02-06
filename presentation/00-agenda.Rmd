@@ -1,5 +1,5 @@
 ---
-title: "École d'été 2024 - Introduction"
+title: "École d'été 2026 - Introduction"
 author: 
   - "Lars Vilhuber"
   - "Marie Connolly"
@@ -9,7 +9,7 @@ date: "`r Sys.Date()`"
 ```{r, child=c('toc.md')}
 ```
 
-# Day 1
+# Jour 1
 
 ## Détails {.smaller}
 
@@ -32,7 +32,7 @@ date: "`r Sys.Date()`"
 
 
 
-# Day 2
+# Jour 2
 
 
 ```{r, child=c('toc2.md')}

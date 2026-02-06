@@ -1,32 +1,32 @@
-# Tutorial
+# Tutoriel
 
-## Follow along
+## Suivez en direct
 
 
-## To set this up
+## Pour configurer ceci
 
-You may need an `.Renviron` file in the root of the project with the following content:
+Vous pourriez avoir besoin d'un fichier `.Renviron` à la racine du projet avec le contenu suivant :
 
 ```
-QUALTRICS_API_KEY='something here'
+QUALTRICS_API_KEY='quelque chose ici'
 QUALTRICS_BASE_URL='XXXX.qualtrics.com'
-DATAVERSE_TOKEN='somethingelse'
+DATAVERSE_TOKEN='autre chose'
 DATAVERSE_SERVER='https://demo.dataverse.org'
 DATAVERSE_DATASET_DOI='doi:10.70122/xxx/xxxxx'
 ```
 
-where you should replace this with the true values. See the [Qualtrics API documentation](https://www.qualtrics.com/support/integrations/api-integration/overview/) for more information. For Dataverse uploader, see <https://github.com/IQSS/dataverse-uploader>.
+où vous devriez remplacer ceci par les vraies valeurs. Voir la [documentation de l'API Qualtrics](https://www.qualtrics.com/support/integrations/api-integration/overview/) pour plus d'informations. Pour le téléverseur Dataverse, voir <https://github.com/IQSS/dataverse-uploader>.
 
-You should then set the GH Actions secrets with
+Vous devriez ensuite configurer les secrets GH Actions avec
 
 ```
 gh secret set -f .Renviron
 ```
 
-If you need to work in Codespaces, you will also need to add this to your Codespace secrets:
+Si vous devez travailler dans Codespaces, vous devrez également ajouter ceci à vos secrets Codespace :
 
 ```
 gh secret set -f .Renviron --user $GITHUB_REPOSITORY
 ```
 
-then go to <https://github.com/settings/codespaces> and enable them for this repository (if not already done).
+puis aller à <https://github.com/settings/codespaces> et les activer pour ce dépôt (si ce n'est pas déjà fait).

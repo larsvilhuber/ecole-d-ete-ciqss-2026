@@ -4,9 +4,9 @@
 
 :::: {.column width="70%"}
 
-Disclaimer
+Clause de non-responsabilité
 
-The opinions expressed in this talk are solely the authors, and do not represent the views of the American Economic Association, or any of the funding agencies. 
+Les opinions exprimées dans cette présentation sont uniquement celles des auteurs et ne représentent pas les points de vue de l'American Economic Association ou de tout autre organisme de financement.
 
 
 ::::

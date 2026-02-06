@@ -1,23 +1,23 @@
-# Best practices? {background-image="images/lake-steaming.jpg" background-size="contain" background-position="bottom"}
+# Meilleures pratiques ? {background-image="images/lake-steaming.jpg" background-size="contain" background-position="bottom"}
 
-# First: why? {background-image="images/lake-red.jpg" background-size="contain" background-position="bottom"}
+# D'abord : pourquoi ? {background-image="images/lake-red.jpg" background-size="contain" background-position="bottom"}
 
-## Why reproducibility?
+## Pourquoi la reproductibilité ?
 
 
-- Credibility
-- Transparency (openness)
-- Efficiency of scholarly discourse?
+- Crédibilité
+- Transparence (ouverture)
+- Efficacité du discours scientifique ?
 
-## Why reproducibility? {.smaller}
+## Pourquoi la reproductibilité ? {.smaller}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 
-- Early publications (20th century) *contained tables of data*, and the math was simple (maybe)
-- Data became electronic, **were no longer included** or cited
-- Math was transcribed to *code*, and was *no longer included*
+- Les premières publications (20e siècle) *contenaient des tableaux de données*, et les mathématiques étaient simples (peut-être)
+- Les données sont devenues électroniques, **n'étaient plus incluses** ou citées
+- Les mathématiques ont été transcrites en *code*, et n'étaient *plus incluses*
 
 :::
 
@@ -30,16 +30,16 @@
 
 
 
-## Increasing broad consensus in academia {.smaller}
+## Consensus général croissant dans le milieu académique {.smaller}
 
 
 ::::{.columns}
 
 :::{.column width="50%"}
 
-- **FAIR principles**
-- Data Citation Principles
-- Computational Reproducibility 
+- **Principes FAIR**
+- Principes de citation de données
+- Reproductibilité computationnelle 
 
 
 :::
@@ -47,10 +47,10 @@
 :::{.column width="25%"}
 
 
-- **F**indable
+- **F**indable (trouvable)
 - **A**ccessible
-- **I**nteroperable
-- **R**eusable
+- **I**nteroperable (interopérable)
+- **R**eusable (réutilisable)
 
 
 :::
@@ -63,16 +63,16 @@
 
 ::::
 
-## Data Citation Principles {.smaller}
+## Principes de citation de données {.smaller}
 
 
 ::::{.columns}
 
 :::{.column width="50%"}
 
-- FAIR principles
-- **Data Citation Principles**
-- Computational Reproducibility 
+- Principes FAIR
+- **Principes de citation de données**
+- Reproductibilité computationnelle 
 
 
 
@@ -81,8 +81,8 @@
 :::{.column width="25%"}
 
 
-- To make it **findable**, *citations*, 
-- Give **attribution** and *credit* for data.
+- Pour les rendre **trouvables**, *citations*, 
+- Donner **attribution** et *crédit* pour les données.
 
 
 [^dc]
@@ -104,16 +104,16 @@ Principles. Martone M. (ed.) San Diego CA: FORCE11; 2014
 
 
 
-## Computational reproducibility {.smaller}
+## Reproductibilité computationnelle {.smaller}
 
 
 ::::{.columns}
 
 :::{.column width="50%"}
 
-- FAIR principles
-- Data Citation Principles
-- **Computational Reproducibility** 
+- Principes FAIR
+- Principes de citation de données
+- **Reproductibilité computationnelle** 
 
 
 
@@ -121,9 +121,9 @@ Principles. Martone M. (ed.) San Diego CA: FORCE11; 2014
 
 :::{.column width="50%"}
 
-- Primary topic today
+- Sujet principal d'aujourd'hui
 
-> *Reproducibility* means obtaining consistent computational results using the same input data, computational steps, methods, code, and conditions of analysis.[^cr]
+> *Reproductibilité* signifie obtenir des résultats computationnels cohérents en utilisant les mêmes données d'entrée, étapes computationnelles, méthodes, code et conditions d'analyse.[^cr]
 
 [^cr]:  National Academies of Sciences, Engineering, and Medicine. 2019. *Reproducibility and Replicability in Science*. Washington, DC: The National Academies Press. <https://doi.org/10.17226/25303>.
 

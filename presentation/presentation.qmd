@@ -1,9 +1,9 @@
 ---
-title: "Reproducibility in research – Ensuring the transparency and credibility of your work"
+title: "Reproductibilité en recherche – Assurer la transparence et la crédibilité de votre travail"
 author: 
   - "Lars Vilhuber"
-  - "Michael Stepner"
-date: May 26 2025
+  - "Marie Connolly"
+date: 12-13 mai 2026
 title-slide-attributes:
   data-background-image: "images/lake-winter.jpg" 
   data-background-size: "auto 50%"

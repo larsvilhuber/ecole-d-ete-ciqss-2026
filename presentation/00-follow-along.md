@@ -1,4 +1,4 @@
-## Follow along {.smaller}
+## Suivez en direct {.smaller}
 
 :::: {.columns}
 

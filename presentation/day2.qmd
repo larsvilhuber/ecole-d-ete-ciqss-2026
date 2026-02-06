@@ -1,9 +1,9 @@
 ---
-title: "Reproducibility in research – Day 2"
+title: "Reproductibilité en recherche – Jour 2"
 author: 
   - "Lars Vilhuber"
-  - "Michael Stepner"
-date: May 27 2025
+  - "Marie Connolly"
+date: 13 mai 2026
 title-slide-attributes:
   data-background-image: "images/lake-summer.jpg" 
   data-background-size: "auto 50%"
@@ -63,21 +63,21 @@ WEBSITE_SHORT <- paste0(GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSI
 ```
 
 
-# The program
+# Le programme
 
-## Day 2
+## Jour 2
 
 ```{r, child=c(here::here('toc2.md'))}
 ```
 
-# Discussion of the "Very imperfect example"
+# Discussion de l'"Exemple très imparfait"
 
 ## Discussion
 
 :::::{.columns}
 ::::{.column width="50%"}
 
-🔒[Link](https://github.com/labordynamicsinstitute/very-imperfect-example-lesson/)
+🔒[Lien](https://github.com/labordynamicsinstitute/very-imperfect-example-lesson/)
 
 ::::
 
@@ -93,14 +93,14 @@ WEBSITE_SHORT <- paste0(GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSI
 
 :::::
 
-# Documenting it all
+# Tout documenter
 
 
-## The template README
+## Le modèle README
 
-[➡️ How to correctly document a replication package](https://larsvilhuber.github.io/readme-presentation/)
+[➡️ Comment documenter correctement un paquet de réplication](https://larsvilhuber.github.io/readme-presentation/)
 
-# Break
+# Pause
 
 
 :::::{.columns}
@@ -124,46 +124,46 @@ WEBSITE_SHORT <- paste0(GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSI
 
 :::::
 
-# How to run Stata reproducibly
+# Comment exécuter Stata de manière reproductible
 
-## How to run Stata reproducibly
+## Comment exécuter Stata de manière reproductible
 
-.. or **R** or **Python** or **Julia**... reproducibly.
+.. ou **R** ou **Python** ou **Julia**... de manière reproductible.
 
-[➡️ How to run Stata!](https://larsvilhuber.github.io/self-checking-reproducibility/presentation/#/creating-log-files) or R! (reproducibly)
-
-
-##  How to install Stata packages reproducibly
-
-[➡️ How to install Stata packages](https://larsvilhuber.github.io/self-checking-reproducibility/presentation/#/environments)
+[➡️ Comment exécuter Stata !](https://larsvilhuber.github.io/self-checking-reproducibility/presentation/#/creating-log-files) ou R ! (de manière reproductible)
 
 
-# **Topic A** 
+##  Comment installer des paquets Stata de manière reproductible
 
-[➡️ See Survey](`r WEBSITE_BASE`) 
+[➡️ Comment installer des paquets Stata](https://larsvilhuber.github.io/self-checking-reproducibility/presentation/#/environments)
 
 
-# Data cleaning
+# **Sujet A** 
 
-🔒[When data cleaning](https://github.com/labordynamicsinstitute/very-imperfect-example/blob/main/programs/02_table1.do#L13) is  🔒[critical](https://github.com/labordynamicsinstitute/very-imperfect-example-lesson/blob/main/programs/01_dataclean.do#L40)
+[➡️ Voir le sondage](`r WEBSITE_BASE`) 
 
-# Intermezzo: API and AI
 
-- [➡️ What to do when data come from an API?](https://github.com/labordynamicsinstitute/alfred_example/)
-- [➡️ What to do when part of the process uses AI or LLMs?](https://larsvilhuber.github.io/reproducibility-for-llm/presentation/)
+# Nettoyage des données
 
-# **Topic B**
+🔒[Quand le nettoyage de données](https://github.com/labordynamicsinstitute/very-imperfect-example/blob/main/programs/02_table1.do#L13) est  🔒[critique](https://github.com/labordynamicsinstitute/very-imperfect-example-lesson/blob/main/programs/01_dataclean.do#L40)
+
+# Intermezzo : API et IA
+
+- [➡️ Que faire lorsque les données proviennent d'une API ?](https://github.com/labordynamicsinstitute/alfred_example/)
+- [➡️ Que faire lorsqu'une partie du processus utilise l'IA ou les LLM ?](https://larsvilhuber.github.io/reproducibility-for-llm/presentation/)
+
+# **Sujet B**
 
 
 ```{r, child=c(here::here('presentation','21-archiving.md'))}
 ```
 
 
-# Final stretch
+# Dernière ligne droite
 
-## After the Break
+## Après la pause
 
-- 14:30 *Hands-on:* Improving the replication package (very imperfect -> a lot better)
-- 15:00 *Hands-on:* Testing it all
-- 15:15 Wrap up
-- 16:00 Fin.
+- 14h30 *Pratique :* Améliorer le paquet de réplication (très imparfait -> beaucoup mieux)
+- 15h00 *Pratique :* Tout tester
+- 15h15 Conclusion
+- 16h00 Fin.
