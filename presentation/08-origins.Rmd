@@ -1,5 +1,5 @@
 ---
-title: "Part 8: Data Provenance"
+title: "Partie 8 : Provenance des données"
 author: 
   - "Lars Vilhuber"
   - "Marie Connolly"
@@ -9,32 +9,32 @@ date: "`r Sys.Date()`"
 ```{r, child=c('toc2.md')}
 ```
 
-# Where does the analysis data come from?
+# D'où proviennent les données d'analyse ?
 
-## Data Provenance
+## Provenance des données
 
 "US Census 2000"
 
-## But where?
+## Mais où ?
 
 - [Census.gov](https://data.census.gov/)
 - [IPUMS USA](https://usa.ipums.org/usa/)
 - [ICPSR](https://www.icpsr.umich.edu/icpsrweb/)
 
-# WE DON'T KNOW!
+# NOUS NE SAVONS PAS !
 
-## We don't know
+## Nous ne savons pas
 
-... because in this version, the author doesn't tell us. 
+... parce que dans cette version, l'auteur ne nous le dit pas. 
 
-## Let's find out
+## Découvrons-le
 
 [https://github.com/labordynamicsinstitute/very-imperfect-example/](https://github.com/labordynamicsinstitute/very-imperfect-example/)
 
 ```{r, child=c('counter30.md')}
 ```
 
-# Next
+# Suivant
 
 
 ```{r, child=c('toc2.md')}

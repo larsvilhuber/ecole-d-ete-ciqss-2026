@@ -1,43 +1,43 @@
 ---
-title: "Running Code in Stata"
+title: "Exécuter du code dans Stata"
 author: 
   - "Lars Vilhuber"
   - "Marie Connolly"
 date: "`r Sys.Date()`"
 ---
 
-## How do YOU run a Stata program?
+## Comment exécutez-VOUS un programme Stata ?
 
 ```{r, child=c('counter10.md')}
 ```
 
-Goals
+Objectifs
 
- 1. Making sure that paths (i.e., something like "`Mycomputer/Documents/Workspace/`") in the .do files (Stata scripts) reflect the appropriate location of code, data, and output in the computer where the code is run.
- 2. Installing user-written functions, programs, or packages that are necessary to do computations and produce tables/figures.
- 3. Creating .log files (files that record, in this case, Stata output) of the replication attempts.
+ 1. S'assurer que les chemins (c.-à-d. quelque chose comme "`Monordinateur/Documents/Espace_travail/`") dans les fichiers .do (scripts Stata) reflètent l'emplacement approprié du code, des données et de la sortie dans l'ordinateur où le code est exécuté.
+ 2. Installer les fonctions, programmes ou paquets écrits par les utilisateurs qui sont nécessaires pour effectuer des calculs et produire des tableaux/figures.
+ 3. Créer des fichiers .log (fichiers qui enregistrent, dans ce cas, la sortie Stata) des tentatives de réplication.
 
-## Step 1: check for a "master" .do file
+## Étape 1 : vérifier l'existence d'un fichier .do "maître"
 
-> **[ACTION]** Check the README or the repository and determine if a master .do file was provided.
+> **[ACTION]** Vérifiez le README ou le dépôt et déterminez si un fichier .do maître a été fourni.
 
-A master .do file is a Stata script that will call, in the correct sequence, all the programs necessary to construct analysis datasets, do all computations, and produce figures and tables. If a master do file exists, it should be mentioned in the README. In most cases, running a single master do file is sufficient to complete the reproduction. In general, a master script does not need to be a .do file. However, we will focus on cases where all work done in Stata is reduced to executing a single .do file.
+Un fichier .do maître est un script Stata qui appellera, dans la séquence correcte, tous les programmes nécessaires pour construire les ensembles de données d'analyse, effectuer tous les calculs et produire des figures et des tableaux. Si un fichier do maître existe, il devrait être mentionné dans le README. Dans la plupart des cas, exécuter un seul fichier do maître est suffisant pour compléter la reproduction. En général, un script maître n'a pas besoin d'être un fichier .do. Cependant, nous nous concentrerons sur les cas où tout le travail effectué dans Stata se réduit à l'exécution d'un seul fichier .do.
 
 
-### When a master .do file is provided
+### Lorsqu'un fichier .do maître est fourni
 
-If there is a master do file, continue with [Step 2](Step2).
+Si un fichier do maître existe, continuez avec [Étape 2](Step2).
 
 (create-master)=
-### When a master .do file is not provided
+### Lorsqu'un fichier .do maître n'est pas fourni
 
-If a master .do file is not provided, you should create a one. 
+Si un fichier .do maître n'est pas fourni, vous devez en créer un. 
 
-To create a do file follow the following steps:
+Pour créer un fichier do, suivez les étapes suivantes :
 
-1. Check that the README for specific instructions about the order in which each program is supposed to be run. If there are no such instructions, or they are not obvious by the name of the programs, is probably best to not create a master do file.
+1. Vérifiez le README pour des instructions spécifiques sur l'ordre dans lequel chaque programme est censé être exécuté. S'il n'y a pas de telles instructions, ou si elles ne sont pas évidentes par le nom des programmes, il est probablement préférable de ne pas créer de fichier do maître.
 
-2. Assuming that the sequence of programs is clear to you, open stata and click on the "New do file editor" (you can also work on Visual Studio Code):
+2. En supposant que la séquence des programmes soit claire pour vous, ouvrez Stata et cliquez sur "New do file editor" (vous pouvez également travailler sur Visual Studio Code) :
 
 ![do_editor](images/doeditor.png)
 
