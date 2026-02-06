@@ -1,27 +1,27 @@
 
-## Extras
+## Suppléments
 
-### Guidance
+### Conseils
 
-Some additional guidance can be found on the website of the Social Science Data Editors (URLs subject to change):
+Des conseils supplémentaires peuvent être trouvés sur le site web des éditeurs de données en sciences sociales (les URL sont sujettes à changement) :
 
 -   <https://social-science-data-editors.github.io/guidance/Other/DCAS_Restricted_data.html#us-census-bureau-and-fsrdc>
 -   <https://social-science-data-editors.github.io/guidance/Requested_information_hosting.html#self-generated-repositories>
 
-### Examples of replication packages
+### Exemples de paquets de réplication
 
-With confidential data
+Avec des données confidentielles
 
--    <https://doi.org/10.3886/E154241V2> not only code, but faces the problem that IRS data cannot have variables revealed. Their workaround is not the same one as in this tutorial.
+-    <https://doi.org/10.3886/E154241V2> pas seulement du code, mais fait face au problème que les données de l'IRS ne peuvent pas avoir de variables révélées. Leur solution de contournement n'est pas la même que dans ce tutoriel.
 -    <https://doi.org/10.3886/E162581V1> 
 
-Using containers:
+Utilisant des conteneurs :
 
-- [Kline et al (2024)](https://doi.org/10.1257/aer.20230700) "A Discrimination Report Card: [primary replication package](https://doi.org/10.3886/E198284V1), with [container specification](https://github.com/AEADataEditor/docker-aer-2023-0700/), [image on Docker Hub](https://hub.docker.com/r/aeadataeditor/aer-2023-0700), and [preserved image on Zenodo](https://doi.org/10.5281/zenodo.11080918).  
-- [Herbert et al (2024)](https://doi.org/10.1111/caje.12728) "Reproduce to validate": [primary replication package](https://doi.org/10.5683/SP3/GJVVLI), [container specification](https://github.com/larsvilhuber/aej-applied-replications-public/) and [preserved image on Borealis.ca](https://doi.org/10.5683/SP3/HBBHRO).
+- [Kline et al (2024)](https://doi.org/10.1257/aer.20230700) "A Discrimination Report Card" : [paquet de réplication principal](https://doi.org/10.3886/E198284V1), avec [spécification du conteneur](https://github.com/AEADataEditor/docker-aer-2023-0700/), [image sur Docker Hub](https://hub.docker.com/r/aeadataeditor/aer-2023-0700), et [image préservée sur Zenodo](https://doi.org/10.5281/zenodo.11080918).  
+- [Herbert et al (2024)](https://doi.org/10.1111/caje.12728) "Reproduce to validate" : [paquet de réplication principal](https://doi.org/10.5683/SP3/GJVVLI), [spécification du conteneur](https://github.com/larsvilhuber/aej-applied-replications-public/) et [image préservée sur Borealis.ca](https://doi.org/10.5683/SP3/HBBHRO).
 
-### Extra info
+### Informations supplémentaires
 
 
-- This document's source: <`r REPOSITORY_URL`>
-- Licensed under [![CC BY-NC 4.0](/images/cc-by-nc-80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+- Source de ce document : <`r REPOSITORY_URL`>
+- Sous licence [![CC BY-NC 4.0](/images/cc-by-nc-80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)

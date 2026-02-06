@@ -1,20 +1,20 @@
-- 9:00 [Discussion](https://larsvilhuber.github.io/summer-school-qicss-2025/presentation/day2.html) of the "Very imperfect example"
-- 9:30 Documenting it all: [How to correctly document a replication package](https://larsvilhuber.github.io/readme-presentation/) (and why!)
-- 10:30 Break
-- 10:45 [How to run Stata!](presentation/presentation.html#how-to-run-stata) or R! (reproducibly)
-- 11:00 Extra: [How to install Stata packages](https://larsvilhuber.github.io/self-checking-reproducibility/12-environments-in-stata.html)
-- 11:15 **Topic A** (see Survey)
+- 9h00 [Discussion](https://larsvilhuber.github.io/summer-school-qicss-2025/presentation/day2.html) de l'"Exemple très imparfait"
+- 9h30 Tout documenter : [Comment documenter correctement un paquet de réplication](https://larsvilhuber.github.io/readme-presentation/) (et pourquoi !)
+- 10h30 Pause
+- 10h45 [Comment exécuter Stata !](presentation/presentation.html#how-to-run-stata) ou R ! (de manière reproductible)
+- 11h00 Supplément : [Comment installer des paquets Stata](https://larsvilhuber.github.io/self-checking-reproducibility/12-environments-in-stata.html)
+- 11h15 **Sujet A** (voir le sondage)
 
 ---
 
-- 12:00 Break 
+- 12h00 Pause 
 
 ---
 
-- 13:00 🔒[When data cleaning](https://github.com/labordynamicsinstitute/very-imperfect-example/blob/main/programs/02_table1.do#L13) is  🔒[critical](https://github.com/labordynamicsinstitute/very-imperfect-example-lesson/blob/main/programs/01_dataclean.do#L40)
-- 13:30 **Topic B** (see Survey)
-- 14:15 Break
-- 14:30 *Hands-on:* Improving the replication package (very imperfect -> a lot better)
-- 15:00 *Hands-on:* Testing it all
-- 15:15 Wrap up
-- 16:00 Fin.
+- 13h00 🔒[Quand le nettoyage de données](https://github.com/labordynamicsinstitute/very-imperfect-example/blob/main/programs/02_table1.do#L13) est  🔒[critique](https://github.com/labordynamicsinstitute/very-imperfect-example-lesson/blob/main/programs/01_dataclean.do#L40)
+- 13h30 **Sujet B** (voir le sondage)
+- 14h15 Pause
+- 14h30 *Pratique :* Améliorer le paquet de réplication (très imparfait -> beaucoup mieux)
+- 15h00 *Pratique :* Tout tester
+- 15h15 Conclusion
+- 16h00 Fin.

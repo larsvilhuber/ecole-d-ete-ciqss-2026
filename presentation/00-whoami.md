@@ -1,11 +1,11 @@
-# Who are we?
+# Qui sommes-nous ?
 
-## Your instructors
+## Vos instructeurs
 
 ::::{.columns}
 ::: {.column width="50%"}
 
-![**Michael Stepner**](https://michaelstepner.com/img/mstepner-400px.jpg)
+![**Marie Connolly**](images/Connolly_Marie_small.jpg)
 
 :::
 ::: {.column width="50%"}
@@ -15,18 +15,18 @@
 :::
 ::::
 
-## Michael Stepner {.smaller}
+## Marie Connolly {.smaller}
 
 
 ::::{.columns}
 ::: {.column width="50%"}
 
-Assistant professor at the [University of Toronto](https://economics.utoronto.ca/) and a Research Principal at [Opportunity Insights](https://opportunityinsights.org/), a lab based at Harvard University.
+Marie Connolly est professeure titulaire au Département des sciences économiques de l'École des sciences de la gestion (ESG) de l'Université du Québec à Montréal (UQAM). Sa recherche est principalement empirique et porte sur divers sujets en économie du travail, tels que la mobilité intergénérationnelle des revenus, la formation du capital humain, l'écart entre les sexes et la famille, la participation des femmes au marché du travail et l'évaluation des politiques publiques. Elle occupe actuellement le poste d'éditrice des données de la Revue canadienne d'économique.
+
 
 :::
 ::: {.column width="50%"}
 
-![Opportunity Atlas](images/opportunityAtlas.png)
 
 :::
 
@@ -37,24 +37,24 @@ Assistant professor at the [University of Toronto](https://economics.utoronto.ca
 ::::{.columns}
 ::: {.column width="50%"}
 
-Executive Director of the [Labor Dynamics Institute](http://www.ilr.cornell.edu/ldi) and Senior Research Associate in the [Economics Department](http://economics.cornell.edu/) at [Cornell University](http://www.cornell.edu/), and the [American Economic Association](https://www.aeaweb.org/)’s Data Editor.
+Directeur exécutif du [Labor Dynamics Institute](http://www.ilr.cornell.edu/ldi) et chercheur associé principal au [Département d'économie](http://economics.cornell.edu/) de [l'Université Cornell](http://www.cornell.edu/), et éditeur des données de [l'American Economic Association](https://www.aeaweb.org/).
 
 :::
 
 ::: {.column width="50%"}
 
-![Journals](images/aea-journals.png)
+![Revues](images/aea-journals.png)
 
 :::
 
 ::::
 
-## Data Editor of the AEA
+## Éditeur de données de l'AEA
 
 ::::{.columns}
 ::: {.column width="50%"}
 
-2389 Manuscripts and 4440 Reports, approx. 4400 authors reached.
+2389 manuscrits et 4440 rapports, environ 4400 auteurs contactés.
 
 :::
 ::: {.column width="50%"}
