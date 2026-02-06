@@ -1,45 +1,45 @@
-# Best practices? {background-image="images/lake-steaming.jpg" background-size="contain" background-position="bottom"}
+# Meilleures pratiques ? {background-image="images/lake-steaming.jpg" background-size="contain" background-position="bottom"}
 
-## Summing up {.smaller}
+## En résumé {.smaller}
 
 ::::{.columns}
 
 :::{.column width="50%"}
 
-- **Why**
-  - Credibility
-  - Transparency (openness)
-  - Efficiency of scholarly discourse ([example])
-- *How*
-  - FAIR principles
-  - Data Citation Principles
-  - Computational Reproducibility 
+- **Pourquoi**
+  - Crédibilité
+  - Transparence (ouverture)
+  - Efficacité du discours scientifique ([exemple])
+- *Comment*
+  - Principes FAIR
+  - Principes de citation de données
+  - Reproductibilité computationnelle 
 :::
 
 :::{.column width="50%"}
 
-- As **Replication Packages**
+- Sous forme de **paquets de réplication**
   - Code
-  - Data
-  - Materials (for surveys, experiments, ...)
-  - Instructions on how to obtain data not included
-  - Instructions on how to combine it all
-  - Known issues documented
+  - Données
+  - Matériaux (pour les sondages, expériences, ...)
+  - Instructions sur la façon d'obtenir les données non incluses
+  - Instructions sur la façon de tout combiner
+  - Problèmes connus documentés
 
 :::
 ::::
 
 
-# Who? {background-image="images/lake-summer.jpg" background-size="contain" background-position="bottom"}
+# Qui ? {background-image="images/lake-summer.jpg" background-size="contain" background-position="bottom"}
 
-## Who?
+## Qui ?
 
 :::::{.columns}
 ::::{.column width="50%"}
 
-- 🐇 Authors at **conditional acceptance** 
-- 🐢 Authors at *submission*
-- 🐁 Authors at **beginning** of project
+- 🐇 Auteurs à l'**acceptation conditionnelle** 
+- 🐢 Auteurs à la *soumission*
+- 🐁 Auteurs au **début** du projet
 
 
 ::::
@@ -48,17 +48,17 @@
 
 
 
-- 👴🏻👵🏽 Experienced researchers
-- 👶🏽👶🏻 Junior researchers
-- 👨‍🎓👩‍🎓 Ph.D. students
-- 🧒👦 Undergraduates 
+- 👴🏻👵🏽 Chercheurs expérimentés
+- 👶🏽👶🏻 Chercheurs juniors
+- 👨‍🎓👩‍🎓 Doctorants
+- 🧒👦 Étudiants de premier cycle 
 
 
 
 ::::
 :::::
 
-## Who? 
+## Qui ? 
 
 :::::{.columns}
 ::::{.column width="30%"}
@@ -67,7 +67,7 @@
 
 ::::{.column width="40%"}
 
-You.
+Vous.
 
 ::::
 
@@ -77,32 +77,32 @@ You.
 
 :::::
 
-## You
+## Vous
 
 :::::{.columns}
 
 ::::{.column width="50%"}
 
-👶🏻 Now:
+👶🏻 Maintenant :
 
-- more efficient development
-- more efficient collaboration
-- more assurance that "everything just works"
+- développement plus efficace
+- collaboration plus efficace
+- plus d'assurance que "tout fonctionne"
 
 ::::
 
 ::::{.column width="50%"}
 
-👵🏽 Soon
+👵🏽 Bientôt
 
-- more efficient development across projects
-- more efficient response to editors and referrees
-- ... while you are in a **new** institution, on a *new computer*, with three courses to **prep**, and (luxury!) a **RA** you can delegate to...
+- développement plus efficace entre les projets
+- réponse plus efficace aux éditeurs et réviseurs
+- ... pendant que vous êtes dans une **nouvelle** institution, sur un *nouvel ordinateur*, avec trois cours à **préparer**, et (luxe !) un **assistant de recherche** à qui vous pouvez déléguer...
 
 ::::
 
 :::::
 
-## You
+## Vous
 
 [![](images/plosone-reproducibility-stress.png)](https://doi.org/10.1371/journal.pone.0293584)

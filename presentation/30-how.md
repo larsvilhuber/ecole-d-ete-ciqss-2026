@@ -1,16 +1,16 @@
-# How? {background-image="images/lake-red.jpg" background-size="contain" background-position="bottom"}
+# Comment ? {background-image="images/lake-red.jpg" background-size="contain" background-position="bottom"}
 
-## How to create reproducible research?
+## Comment créer une recherche reproductible ?
 
-## Habits
+## Habitudes
 
-- Reproducibility from Day 1
-- Adopt reproducible habits
-- Take notes when you do things, not after
-- Use version control
+- Reproductibilité dès le jour 1
+- Adopter des habitudes reproductibles
+- Prendre des notes quand vous faites les choses, pas après
+- Utiliser le contrôle de version
 
 
-## Strategy
+## Stratégie
 
-**Computational empathy**: think of the next person to run this  - It could be **you** in 5 years!
+**Empathie computationnelle** : pensez à la prochaine personne qui exécutera ceci - Cela pourrait être **vous** dans 5 ans !
 

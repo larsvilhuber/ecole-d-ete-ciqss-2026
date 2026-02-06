@@ -1,23 +1,23 @@
-# What is... {background-image="images/lake-autumn.jpg" background-size="contain" background-position="bottom"}
+# Qu'est-ce que... {background-image="images/lake-autumn.jpg" background-size="contain" background-position="bottom"}
 
-## What is a replication package?
+## Qu'est-ce qu'un paquet de réplication ?
 
-## A Replication Package is
+## Un paquet de réplication comprend
 
 
 - Code
-- Data
-- Materials (for surveys, experiments, ...)
-- Instructions on how to obtain data not included
-- Instructions on how to combine it all
-- Known issues documented
+- Données
+- Matériaux (pour les sondages, expériences, ...)
+- Instructions sur la façon d'obtenir les données non incluses
+- Instructions sur la façon de tout combiner
+- Problèmes connus documentés
 
 
 
-## Complies with...
+## Conforme à...
 
-- [AEA Data and Code Availability policy](https://www.aeaweb.org/journals/data/data-code-policy)
-- [Data and Code Availability Standard](https://datacodestandard.org/) ![](https://datacodestandard.org/assets/img/DCAS-1.0.png) [.](index.html#/reproducibility-in-economics-and-beyond)
+- [Politique de disponibilité des données et du code de l'AEA](https://www.aeaweb.org/journals/data/data-code-policy)
+- [Norme de disponibilité des données et du code](https://datacodestandard.org/) ![](https://datacodestandard.org/assets/img/DCAS-1.0.png) [.](index.html#/reproducibility-in-economics-and-beyond)
 
 :::: {.columns}
 :::{.column width="50%"}
@@ -32,14 +32,14 @@
 :::
 ::::
 
-## Is stored in...
+## Est stocké dans...
 
 
 :::: {.columns}
 :::{.column width="50%"}
 
-- [AEA Data and Code Repository](https://www.openicpsr.org/openicpsr/search/aea/studies)
-- Other trusted repositories
+- [Dépôt de données et de code de l'AEA](https://www.openicpsr.org/openicpsr/search/aea/studies)
+- Autres dépôts de confiance
 
 :::
 :::{.column width="50%"}

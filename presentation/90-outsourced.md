@@ -1,40 +1,40 @@
-# Transparency elsewhere
+# Transparence ailleurs
 
-## Transparency outsourced
+## Transparence externalisée
 
-- [Talk to Limor!](https://dissc.yale.edu/people/limor-peer)
-- [Cornell's R-squared](https://socialsciences.cornell.edu/research-support/R-squared)
+- [Parlez à Limor !](https://dissc.yale.edu/people/limor-peer)
+- [R-squared de Cornell](https://socialsciences.cornell.edu/research-support/R-squared)
 - [cascad](https://www.cascad.tech/)
-- [World Bank](https://doi.org/10.1162/99608f92.21328ce3)
+- [Banque mondiale](https://doi.org/10.1162/99608f92.21328ce3)
 
-## Transparency outsourced
+## Transparence externalisée
 
-- A third party conducts the reproducibility, not you, not me.
-- Need to common understanding, protocols, etc.
-- [AEA's protocol](https://www.aeaweb.org/journals/data/policy-third-party)
-- We do this about a dozen times per year
+- Un tiers effectue la reproductibilité, pas vous, pas moi.
+- Besoin d'une compréhension commune, de protocoles, etc.
+- [Protocole de l'AEA](https://www.aeaweb.org/journals/data/policy-third-party)
+- Nous faisons cela environ une douzaine de fois par an
 
-## Transparency outsourced
+## Transparence externalisée
 
-Why should I believe the third party?
+Pourquoi devrais-je croire le tiers ?
 
-- Trust
-- Transparency
-- Common methods
+- Confiance
+- Transparence
+- Méthodes communes
 
-## Transparency certified
+## Transparence certifiée
 
 [![trace](images/trace-overview-flowchart.png)](https://transparency-certified.github.io/trace-specification/docs/elements.html)
 
-## Transparency certified
+## Transparence certifiée
 
-- Providing information about the computing platforms themselves, including specific details about how computational transparency is supported.
-- Packaging and signing resulting artifacts along with records of their execution using a standard format.
+- Fournir des informations sur les plateformes informatiques elles-mêmes, y compris des détails spécifiques sur la façon dont la transparence computationnelle est prise en charge.
+- Empaqueter et signer les artefacts résultants ainsi que les enregistrements de leur exécution en utilisant un format standard.
 
 ## Applications
 
-- Limor, R-squared, cascad, World Bank!
-- FSRDC? IRS? 
-- Meta data?
+- Limor, R-squared, cascad, Banque mondiale !
+- FSRDC ? IRS ? 
+- Métadonnées ?
 
 

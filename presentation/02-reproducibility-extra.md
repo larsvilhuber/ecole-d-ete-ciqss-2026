@@ -1,68 +1,68 @@
-# Details on Transparency, etc.
+# Détails sur la transparence, etc.
 
-## Transparency
+## Transparence
 
-- Provenance of the *data*
-- Processing of the data, from raw data to results (code)
+- Provenance des *données*
+- Traitement des données, des données brutes aux résultats (code)
 
-> It is the policy of the American Economic Association to publish
-papers only if the **data** used in the analysis are **clearly and precisely documented** and **access** to the data and code is **clearly and precisely documented** and is non-exclusive to the authors.
+> C'est la politique de l'American Economic Association de publier
+des articles uniquement si les **données** utilisées dans l'analyse sont **clairement et précisément documentées** et l'**accès** aux données et au code est **clairement et précisément documenté** et n'est pas exclusif aux auteurs.
 
 
-## Completeness
+## Exhaustivité
 
-- All data needs to be identified and and access described
-- All code needs to be described and provided 
-- All materials must be provided (survey forms, etc.)
+- Toutes les données doivent être identifiées et l'accès décrit
+- Tout le code doit être décrit et fourni 
+- Tous les matériaux doivent être fournis (formulaires de sondage, etc.)
 
-> Authors ... must provide, prior to acceptance, the
-**data, programs, and other details** of the computations **sufficient** to
-permit replication
+> Les auteurs ... doivent fournir, avant l'acceptation, les
+**données, programmes et autres détails** des calculs **suffisants** pour
+permettre la réplication
  
-## Preservation
+## Préservation
 
-- All *data* needs to be preserved for future replicators
-  - Ideally, within the replication package, subject to ToU, for convenience
-  - Otherwise, in a **trusted repository**
+- Toutes les *données* doivent être préservées pour les futurs réplicateurs
+  - Idéalement, dans le paquet de réplication, sous réserve des conditions d'utilisation, pour plus de commodité
+  - Sinon, dans un **dépôt de confiance**
 
-## Preservation
+## Préservation
 
-- *Code* must be in a trusted repository
-  - Usually, within the replication package
-  - Websites, Github, are *not acceptable*
+- Le *code* doit être dans un dépôt de confiance
+  - Habituellement, dans le paquet de réplication
+  - Les sites Web, Github, ne sont *pas acceptables*
 
 
-## Historically
+## Historiquement
 
-![AER 1911 thanks to Stefano Dellavigna](images/aer-1911.jpeg)
+![AER 1911 merci à Stefano Dellavigna](images/aer-1911.jpeg)
 
-## Modern preservation
+## Préservation moderne
 
 ![](images/aea-repo-example.png)
 
  
-## Exceptions to the Policy
+## Exceptions à la politique
 
-None
+Aucune
 
 ## ...
 
-... there is a grey zone:
+... il y a une zone grise :
 
-- When data do not belong to researcher, no control over preservation, access!
-- Sometimes, *ToU* prevent researcher from revealing metadata (name of company, location)
+- Lorsque les données n'appartiennent pas au chercheur, aucun contrôle sur la préservation, l'accès !
+- Parfois, les *conditions d'utilisation* empêchent le chercheur de révéler les métadonnées (nom de l'entreprise, emplacement)
 
-## Transparency again
+## Transparence encore
 
-- However: 
-  - No exception for need to **describe** access (own and other)
-  - No exception for need to fully **describe** processing (possibly with redacted code)
+- Cependant : 
+  - Pas d'exception pour le besoin de **décrire** l'accès (propre et autre)
+  - Pas d'exception pour le besoin de **décrire** pleinement le traitement (éventuellement avec du code caviardé)
 
-# Reproducibility in Economics and beyond
+# Reproductibilité en économie et au-delà
 
 ## {background-image="images/socsci-webpage.png" background-size="contain"}
 
-## Data Editors {.smaller}
+## Éditeurs de données {.smaller}
 
 ::::{.columns}
 
@@ -70,7 +70,7 @@ None
 
 - [American Economic Association](https://www.aeaweb.org/journals/) (8)
 - [Econometric Society](https://www.econometricsociety.org/) (3)
-- [Canadian Journal of Economics](https://www.economics.ca/cje-home) (1)
+- [Revue canadienne d'économique](https://www.economics.ca/cje-home) (1)
 - [Royal Economic Society](https://res.org.uk/journals/) (2)
 - [Western Economic Association International](https://weai.org/view/EI-Journal-Policies) (1)
 - [European Economic Association](http://www.eeassoc.org/journal) (1)
@@ -86,7 +86,7 @@ None
 
 ::::
 
-## Common policies {.smaller}
+## Politiques communes {.smaller}
 
 <https://social-science-data-editors.github.io/>
 
@@ -106,7 +106,7 @@ None
 
 ::::
 
-## Elsewhere: Political Science {.smaller}
+## Ailleurs : Science politique {.smaller}
 
 ::::{.columns}
 
@@ -124,7 +124,7 @@ None
 
 ::::
 
-## Elsewhere: Sociology {.smaller}
+## Ailleurs : Sociologie {.smaller}
 
 ::::{.columns}
 
@@ -141,9 +141,9 @@ None
 
 ::::
 
-## But!
+## Mais !
 
-## Elsewhere: Sociology {.smaller}
+## Ailleurs : Sociologie {.smaller}
 
 ::::{.columns}
 
@@ -157,7 +157,7 @@ None
 
 ![Weeden (2023)](images/hdsr-weeden.png) [^hdsr1]
 
-[^hdsr1]:  Weeden, K. A. (2023). Crisis? What Crisis? Sociology’s Slow Progress Toward Scientific Transparency  . Harvard Data Science Review, 5(4). <https://doi.org/10.1162/99608f92.151c41e3>
+[^hdsr1]:  Weeden, K. A. (2023). Crisis? What Crisis? Sociology's Slow Progress Toward Scientific Transparency  . Harvard Data Science Review, 5(4). <https://doi.org/10.1162/99608f92.151c41e3>
 
 :::
 
