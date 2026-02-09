@@ -1,0 +1,95 @@
+---
+title: "Reproducibility: Why and how?"
+author:
+  - "Lars Vilhuber"
+  - "Marie Connolly"
+date: 12 février 2026
+title-slide-attributes:
+  data-background-image: "images/lake-winter.jpg"
+  data-background-size: "auto 50%"
+  data-background-position: "bottom"
+format:
+  revealjs:
+    scrollable: true
+    margin: 0
+    code-overflow: wrap
+    reference-location: document
+    widescreen: true
+    center: true
+    transition: slide
+    theme: [night, style.css]
+    self_contained: false
+    logo: logo.png
+    footer: ""
+    reveal_options:
+        slideNumber: true
+        previewLinks: false
+        chalkboard:
+          theme: chalkboard
+          toggleNotesButton: true
+    reveal_plugins: ["chalkboard"]
+---
+
+
+
+```{r config,include=FALSE}
+# The repository name
+
+message(Sys.getenv("GITHUB_REPOSITORY"))
+
+# Process the repository name to generate the URL
+# - split the two components
+# - combine them into a URL with 'github.io' in the middle
+
+WEBSITE_SUBDIR <- "webinaire"
+GITHUB_REPOSITORY <- Sys.getenv("GITHUB_REPOSITORY")
+GITHUB_REPOSITORY_PARTS <- strsplit(GITHUB_REPOSITORY, "/")[[1]]
+REPOSITORY_URL <- paste0("https://github.com/", GITHUB_REPOSITORY)
+WEBSITE_URL <- paste0("https://", GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSITORY_PARTS[2], "/", WEBSITE_SUBDIR)
+
+source(here::here(WEBSITE_SUBDIR,'global-libraries.R'))
+
+```
+
+
+```{r, child=c(here::here(WEBSITE_SUBDIR,'00-qrcode.md'))}
+```
+
+```{r, child=c(here::here(WEBSITE_SUBDIR,'00-disclaimer.md'))}
+```
+
+```{r, child=c(here::here('presentation','00-whoami.md'))}
+```
+
+```{r, child=c(here::here(WEBSITE_SUBDIR,'01-goal.md'))}
+```
+
+```{r, child=c(here::here(WEBSITE_SUBDIR,'02-reproducibility.md'))}
+```
+
+
+```{r, child=c(here::here(WEBSITE_SUBDIR,'10-benefits.md'))}
+```
+
+
+```{r, child=c(here::here(WEBSITE_SUBDIR,'20-pain.md'))}
+```
+
+
+```{r, child=c(here::here(WEBSITE_SUBDIR,'30-how.md'))}
+```
+
+
+
+
+# Thank you {background-image="images/lake-autumn.jpg" background-size="contain" background-position="bottom"}
+
+
+
+# Appendix
+
+
+
+```{r, child=c(here::here('99-links.md'))}
+```
+
