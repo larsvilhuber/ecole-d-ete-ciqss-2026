@@ -37,7 +37,7 @@ Marie Connolly est professeure titulaire au Département des sciences économiqu
 ::::{.columns}
 ::: {.column width="50%"}
 
-Directeur exécutif du [Labor Dynamics Institute](http://www.ilr.cornell.edu/ldi) et chercheur associé principal au [Département d'économie](http://economics.cornell.edu/) de [l'Université Cornell](http://www.cornell.edu/), et éditeur des données de [l'American Economic Association](https://www.aeaweb.org/).
+Directeur exécutif du [Labor Dynamics Institute](http://www.ilr.cornell.edu/ldi) et chercheur associé principal au [Département d'économie](http://economics.cornell.edu/) de [Cornell University](http://www.cornell.edu/), et Data Editor de [l'American Economic Association](https://www.aeaweb.org/).
 
 :::
 

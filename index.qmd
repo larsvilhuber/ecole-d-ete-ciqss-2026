@@ -3,7 +3,7 @@ title: "Reproductibilité en recherche – Assurer la transparence et la crédib
 author: 
   - "Lars Vilhuber"
   - "Marie Connolly"
-date: 12-13 mai 2026
+date: 11-12 mai 2026
 ---
 
 ```{r config,include=FALSE}
@@ -52,29 +52,45 @@ QUALTRICS_DAY2 <- "SV_cNkhKL69K2Ob7o2"
 
 # Time when this was posted (discard anything before that)
 
-QUALTRICS_DAY2_STIME <- ymd_hms("2025-04-30 23:59:00")
-QUALTRICS_DAY2_ETIME <- ymd_hms("2025-05-26 23:59:00")
+QUALTRICS_DAY2_STIME <- ymd_hms("2026-04-30 23:59:00")
+QUALTRICS_DAY2_ETIME <- ymd_hms("2026-05-26 23:59:00")
 
 if (!dir.exists(here::here("data"))) {
   dir.create(here::here("data"))
 }
 ```
 
-::: {.panel-tabset}
+::::: {.panel-tabset}
 
 ## Détails
 
+- 11 mai 2026 (9h00 à 16h00)
 - 12 mai 2026 (13h00 à 16h00) 
-- 13 mai 2026 (9h00 à 16h00)
 
-Lieu : *DS-1520, [pavillon DS, UQAM](https://plancampus.uqam.ca/#pavillon/ds), 320, rue Sainte-Catherine Est, Montréal, Québec* (voir les détails dans le dernier onglet)
+Lieu : *DS-???, [pavillon DS, UQAM](https://plancampus.uqam.ca/#pavillon/ds), 320, rue Sainte-Catherine Est, Montréal, Québec* (voir les détails dans le dernier onglet)
 
-Inscription requise, voir [lien d'inscription](https://ecommerce.dexero.com/shopping/ciqss/ciqss/event/school_repro25/Detail.view).
+Inscription requise, voir [lien d'inscription]().
 
-*Parrainé par [CIQSS](https://ciqss.org)*, dans le cadre du [pré-programme des rencontres de l'Association canadienne d'économique](https://www.economics.ca/cea2026).
+*Organisé par le [CIQSS](https://ciqss.org)*
 
 <img height="50px" src="https://ciqss.org/wp-content/uploads/2024/02/logo-ciqss-temp-1024x407.webp" alt="logo CIQSS" />
-<img height="50px" src="https://www.economics.ca/resources/Pictures/full_logo_with_wordmark_II.svg" alt="logo ACÉ" />
+
+## Présentateurs
+
+
+::::{.columns}
+::: {.column width="50%"}
+
+![**Marie Connolly**, UQAM](images/Connolly_Marie_small.jpg){width=250px}
+
+:::
+::: {.column width="50%"}
+
+![**Lars Vilhuber**, Cornell University](images/lv39-2014-square.jpg){width=250px}
+
+:::
+::::
+
 
 ## Suivez en direct
 
@@ -178,5 +194,5 @@ if (nrow(data2) > 0) {
 
 
 
-:::
+:::::
 
