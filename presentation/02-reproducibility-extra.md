@@ -3,10 +3,16 @@
 ## Transparence
 
 - Provenance des *données*
-- Traitement des données, des données brutes aux résultats (code)
+- Traitement des données, des données brutes aux résultats (*code*)
 
-> C'est la politique de l'American Economic Association de publier
-des articles uniquement si les **données** utilisées dans l'analyse sont **clairement et précisément documentées** et l'**accès** aux données et au code est **clairement et précisément documenté** et n'est pas exclusif aux auteurs.
+> Prior to acceptance, authors of papers [...] must provide the data, code, and other details of the computations **sufficient to permit replication**. These materials must be made **available and retained in an openly accessible** trusted data repository, such as the AEA Data and Code Repository.
+
+## Transparence
+
+- Provenance des *données*
+- Traitement des données, des données brutes aux résultats (*code*)
+
+> ![](https://datacodestandard.org/assets/img/DCAS-1.0.png) The Canadian Journal of Economics endorses [DCAS, the Data and Code Availability Standard [v1.0]](https://datacodestandard.org/), and its data and code availability policy is compatible with DCAS.
 
 
 ## Exhaustivité
@@ -41,15 +47,9 @@ permettre la réplication
 ![](images/aea-repo-example.png)
 
  
-## Exceptions à la politique
+## Données confidentielles?
 
-Aucune
-
-## ...
-
-... il y a une zone grise :
-
-- Lorsque les données n'appartiennent pas au chercheur, aucun contrôle sur la préservation, l'accès !
+- Lorsque les données n'appartiennent pas au chercheur, celui-ci n'a aucun contrôle sur la préservation, l'accès !
 - Parfois, les *conditions d'utilisation* empêchent le chercheur de révéler les métadonnées (nom de l'entreprise, emplacement)
 
 ## Transparence encore
@@ -141,24 +141,3 @@ Aucune
 
 ::::
 
-## Mais !
-
-## Ailleurs : Sociologie {.smaller}
-
-::::{.columns}
-
-:::{.column width="50%"}
-
-![Sociological Science](images/socscience-webpage.png)
-
-:::
-
-:::{.column width="50%"}
-
-![Weeden (2023)](images/hdsr-weeden.png) [^hdsr1]
-
-[^hdsr1]:  Weeden, K. A. (2023). Crisis? What Crisis? Sociology's Slow Progress Toward Scientific Transparency  . Harvard Data Science Review, 5(4). <https://doi.org/10.1162/99608f92.151c41e3>
-
-:::
-
-::::
