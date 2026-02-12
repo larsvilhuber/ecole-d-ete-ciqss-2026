@@ -84,12 +84,12 @@ source(here::here(WEBSITE_SUBDIR,'global-libraries.R'))
 ::::{.columns}
 ::: {.column width="50%"}
 
-![](images/ecole-dete-2026.png)
+[![](images/ecole-dete-2026.png)](https://larsvilhuber.github.io/ecole-d-ete-ciqss-2026/)
 
 :::
 ::: {.column width="50%"}
 
-![](images/qrcode-ecole-dete.png)
+[![](images/qrcode-ecole-dete.png)](https://larsvilhuber.github.io/ecole-d-ete-ciqss-2026/)
 
 :::
 ::::
