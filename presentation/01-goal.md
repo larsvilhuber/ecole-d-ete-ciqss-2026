@@ -1,4 +1,4 @@
-# Meilleures pratiques ? {background-image="images/lake-steaming.jpg" background-size="contain" background-position="bottom"}
+# Meilleures pratiques  {background-image="images/lake-steaming.jpg" background-size="contain" background-position="bottom"}
 
 # D'abord : pourquoi ? {background-image="images/lake-red.jpg" background-size="contain" background-position="bottom"}
 

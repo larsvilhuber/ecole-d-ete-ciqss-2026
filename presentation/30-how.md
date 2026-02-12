@@ -4,10 +4,10 @@
 
 ## Habitudes
 
-- Reproductibilité dès le jour 1
-- Adopter des habitudes reproductibles
-- Prendre des notes quand vous faites les choses, pas après
-- Utiliser le contrôle de version
+- Reproductibilité **dès le jour 1**
+- Adopter des *habitudes* reproductibles
+- **Prendre des notes** pendant que vous faites les choses, pas après
+- Utiliser le *contrôle de version*
 
 
 ## Stratégie

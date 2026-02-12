@@ -3,7 +3,7 @@ title: "Reproductibilité en recherche – Assurer la transparence et la crédib
 author: 
   - "Lars Vilhuber"
   - "Marie Connolly"
-date: 11-12 mai 2026
+date: 12 February 2026
 ---
 
 ```{r config,include=FALSE}

@@ -1,9 +1,9 @@
 ---
-title: "Reproducibility: Why and how?"
+title: "Reproductibilité en recherche – Assurer la transparence et la crédibilité de votre travail"
 author:
   - "Lars Vilhuber"
   - "Marie Connolly"
-date: 12 février 2026
+# date: 12 february 2026
 title-slide-attributes:
   data-background-image: "images/lake-winter.jpg"
   data-background-size: "auto 50%"
@@ -16,7 +16,9 @@ format:
     reference-location: document
     widescreen: true
     center: true
-    transition: slide
+    transition: fade
+    transition-speed: fast  # default, fast, or slow
+    background-transition: fade
     theme: [night, style.css]
     self_contained: false
     logo: logo.png
@@ -61,28 +63,42 @@ source(here::here(WEBSITE_SUBDIR,'global-libraries.R'))
 ```{r, child=c(here::here('presentation','00-whoami.md'))}
 ```
 
-```{r, child=c(here::here(WEBSITE_SUBDIR,'01-goal.md'))}
+```{r, child=c(here::here('presentation','01-goal.md'))}
 ```
 
-```{r, child=c(here::here(WEBSITE_SUBDIR,'02-reproducibility.md'))}
+```{r, child=c(here::here('presentation','02-reproducibility-extra.md'))}
 ```
 
-
-```{r, child=c(here::here(WEBSITE_SUBDIR,'10-benefits.md'))}
+```{r, child=c(here::here(WEBSITE_SUBDIR,'05-fraud.md'))}
 ```
 
-
-```{r, child=c(here::here(WEBSITE_SUBDIR,'20-pain.md'))}
+```{r, child=c(here::here('presentation','10-benefits.md'))}
 ```
 
-
-```{r, child=c(here::here(WEBSITE_SUBDIR,'30-how.md'))}
+```{r, child=c(here::here(WEBSITE_SUBDIR,'15-what-you-can-do.md'))}
 ```
 
 
+```{r, child=c(here::here('presentation','30-how.md'))}
+```
+
+# École d'été CIQSS 2026
+
+::::{.columns}
+::: {.column width="50%"}
+
+![](images/ecole-dete-2026.png)
+
+:::
+::: {.column width="50%"}
+
+![](images/qrcode-ecole-dete.png)
+
+:::
+::::
 
 
-# Thank you {background-image="images/lake-autumn.jpg" background-size="contain" background-position="bottom"}
+# Merci {background-image="images/lake-autumn.jpg" background-size="contain" background-position="bottom"}
 
 
 
