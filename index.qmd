@@ -16,6 +16,9 @@ library(qualtRics)
 library(lubridate)
 library(qrcode)
 
+# Sign-up link:
+
+SIGNUP_LINK <-"https://catalogue.praxis.umontreal.ca/Web/MyCatalog/ViewP?id=AXEjUjfaQ0dw78t7/Y77wg%3D%3D&pid=ffq7JXcbr822Wh5ppltTJA%3D%3D"
 # qualtRics secrets are read from the environment:
 # - QUALTRICS_API_KEY
 # - QUALTRICS_BASE_URL
@@ -69,7 +72,7 @@ if (!dir.exists(here::here("data"))) {
 
 Lieu : *DS-???, [pavillon DS, UQAM](https://plancampus.uqam.ca/#pavillon/ds), 320, rue Sainte-Catherine Est, Montréal, Québec* (voir les détails dans le dernier onglet)
 
-Inscription requise, voir [lien d'inscription]().
+Inscription requise, voir [lien d'inscription](`r SIGNUP_LINK`).
 
 *Organisé par le [CIQSS](https://ciqss.org)*
 
