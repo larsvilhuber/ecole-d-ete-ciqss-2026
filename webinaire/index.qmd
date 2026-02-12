@@ -3,7 +3,7 @@ title: "Reproductibilité en recherche – Assurer la transparence et la crédib
 author:
   - "Lars Vilhuber"
   - "Marie Connolly"
-# date: 12 february 2026
+date: 12 February 2026
 title-slide-attributes:
   data-background-image: "images/lake-winter.jpg"
   data-background-size: "auto 50%"
