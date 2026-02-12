@@ -68,13 +68,18 @@ permettre la réplication
 
 :::{.column width="50%"}
 
+
 - [American Economic Association](https://www.aeaweb.org/journals/) (8)
 - [Econometric Society](https://www.econometricsociety.org/) (3)
-- [Revue canadienne d'économique](https://www.economics.ca/cje-home) (1)
+- [Canadian Journal of Economics](https://www.economics.ca/cje-home) (1)
 - [Royal Economic Society](https://res.org.uk/journals/) (2)
 - [Western Economic Association International](https://weai.org/view/EI-Journal-Policies) (1)
 - [European Economic Association](http://www.eeassoc.org/journal) (1)
 - [Review of Economic Studies](https://www.restud.com/) (1)
+- [Journal of the European Economic Association](https://academic.oup.com/jeea) (1)
+- [Journal of Political Economy](https://www.journals.uchicago.edu/journals/jpe/about) (3)
+- [American Journal of Political Science](https://onlinelibrary.wiley.com/page/journal/15405907/) (1)
+- [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review) (1)
 
 :::
 

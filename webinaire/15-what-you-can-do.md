@@ -58,19 +58,6 @@
 - **La mise à disposition** (publication des matériaux) fournit la transparence
 - **La vérification** (exécuter à nouveau l'analyse - reproductibilité computationnelle) compense la *méfiance*/*absence de confiance*
 
-## Quelles revues  {.smaller}
-
-- [American Economic Association](https://www.aeaweb.org/journals/) (8)
-- [Econometric Society](https://www.econometricsociety.org/) (3)
-- [Canadian Journal of Economics](https://www.economics.ca/cje-home) (1)
-- [Royal Economic Society](https://res.org.uk/journals/) (2)
-- [Western Economic Association International](https://weai.org/view/EI-Journal-Policies) (1)
-- [European Economic Association](http://www.eeassoc.org/journal) (1)
-- [Review of Economic Studies](https://www.restud.com/) (1)
-- [Journal of the European Economic Association](https://academic.oup.com/jeea) (1)
-- [Journal of Political Economy](https://www.journals.uchicago.edu/journals/jpe/about) (3)
-- [American Journal of Political Science](https://onlinelibrary.wiley.com/page/journal/15405907/) (1)
-- [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review) (1)
 
 ## Vérification par d'autres
 
@@ -153,29 +140,6 @@
 - Documenter toutes les étapes de traitement - en utilisant les outils que vous apprenez ici !
 - Être transparent sur votre processus - montrez votre code !
 - Attendez-vous à la critique (sinon à des critiques) - adoptez-la !
-
-
-## Churchill a dit...
-
-::::{.columns}
-::: {.column width="50%"}
-![](images/Winston-Churchill-Yousuf-Karsh-1941.jpg)
-:::
-::: {.column width="50%"}
-"**Ne faites confiance qu'aux statistiques que vous avez trafiquées vous-même.**"
-:::
-::::
-
-## Ou l'a-t-il vraiment dit...
-
-::::{.columns}
-::: {.column width="50%"}
-![](images/Winston-Churchill-Yousuf-Karsh-1941-really.png)
-:::
-::: {.column width="50%"}
-"Non, bien sûr, le Premier ministre britannique ... **n'a jamais prétendu de telles absurdités**. Mais mettre son nom devant une citation lui donne une apparence plus solennelle, plus imposante, plus définitive." [[Source](https://winstonchurchill.hillsdale.edu/fake-churchill-quote/)]
-:::
-::::
 
 ## Qui est cette personne ? (3)
 

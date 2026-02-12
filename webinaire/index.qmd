@@ -72,9 +72,6 @@ source(here::here(WEBSITE_SUBDIR,'global-libraries.R'))
 ```{r, child=c(here::here(WEBSITE_SUBDIR,'05-fraud.md'))}
 ```
 
-```{r, child=c(here::here('presentation','10-benefits.md'))}
-```
-
 ```{r, child=c(here::here(WEBSITE_SUBDIR,'15-what-you-can-do.md'))}
 ```
 
