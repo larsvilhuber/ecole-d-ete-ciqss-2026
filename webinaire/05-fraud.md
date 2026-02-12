@@ -16,7 +16,7 @@
 ::: {.column width="10%"}
 :::
 ::: {.column width="80%"}
-"a scientific integrity committee found that the results in two of Smeesters’ papers were **statistically highly unlikely**. Smeesters *could not produce the raw data* behind the findings, and told the committee that he **cherry-picked** the data to produce a statistically significant result. Those two papers are being retracted, and the university accepted Smeesters’ *resignation* on June 21."
+"a scientific integrity committee found that the results in two of Smeesters’ papers were **statistically highly unlikely**. Smeesters *could not produce the raw data* behind the findings, and told the committee that he **cherry-picked** the data to produce a statistically significant result. Those two papers are being retracted, and the university accepted Smeesters’ *resignation* on June 21 [2012]."
 
 :::
 ::: {.column width="10%"}
