@@ -122,15 +122,15 @@ plot(code)
 
 
 
-## Sondage pour le jour 2
+## Sondage pour le partie 2
 
-Pour une partie du jour 2, nous avons le choix entre :
+Pour une partie du workshop, nous pouvons aussi discuter sur un des sujets suivants :
 
 - [Reproductibilité lorsque certaines données sont confidentielles](https://labordynamicsinstitute.github.io/reproducibility-confidential/) 
 - [Préserver les données brutes de sondage](presentation/day2.html#preserving-raw-survey-data)
 - [Auto-vérification avancée de la reproductibilité](https://larsvilhuber.github.io/self-checking-reproducibility/presentation/)
 
-Pour identifier le sujet dont nous devrions parler lors du jour 2, veuillez remplir ce sondage :
+Pour identifier le sujet dont nous devrions (possiblement) parler lors du jour 2, veuillez remplir ce sondage :
 
 <`r file.path(QUALTRICS_FULL_URL,QUALTRICS_DAY2)`>
 

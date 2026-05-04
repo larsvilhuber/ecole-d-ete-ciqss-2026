@@ -3,7 +3,7 @@ title: "Hands-on: A very imperfect example"
 date: "`r Sys.Date()`"
 author: 
   - "Lars Vilhuber"
-  - "Michael Stepner"
+  - "Marie Connolly"
 format: 
   revealjs:
     scrollable: true
