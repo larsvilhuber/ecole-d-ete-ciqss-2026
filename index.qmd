@@ -70,7 +70,7 @@ if (!dir.exists(here::here("data"))) {
 - 11 mai 2026 (9h00 à 16h00)
 - 12 mai 2026 (13h00 à 16h00) 
 
-Lieu : *DS-???, [pavillon DS, UQAM](https://plancampus.uqam.ca/#pavillon/ds), 320, rue Sainte-Catherine Est, Montréal, Québec* (voir les détails dans le dernier onglet)
+Lieu : *DS-1520, [pavillon DS, UQAM](https://plancampus.uqam.ca/#pavillon/ds), 320, rue Sainte-Catherine Est, Montréal, Québec* (voir les détails dans le dernier onglet)
 
 Inscription requise, voir [lien d'inscription](`r SIGNUP_LINK`).
 
