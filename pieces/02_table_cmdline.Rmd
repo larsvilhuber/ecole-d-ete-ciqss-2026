@@ -51,6 +51,10 @@ cmd_wide <- cmd_tab |>
     values_fill = 0
   )
 
+# Ensure both Academic and Other columns exist
+if (!"Academic" %in% names(cmd_wide)) cmd_wide$Academic <- 0
+if (!"Other" %in% names(cmd_wide)) cmd_wide$Other <- 0
+
 # Overall percentages
 overall_tab <- cmd_long |>
   group_by(Feature) |>

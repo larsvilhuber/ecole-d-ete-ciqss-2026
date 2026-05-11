@@ -44,6 +44,10 @@ os_wide <- os_tab |>
     values_fill = 0
   )
 
+# Ensure both Academic and Other columns exist
+if (!"Academic" %in% names(os_wide)) os_wide$Academic <- 0
+if (!"Other" %in% names(os_wide)) os_wide$Other <- 0
+
 # Calculate overall percentages
 overall_tab <- os_longer |>
   group_by(OS) |>

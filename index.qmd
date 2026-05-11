@@ -15,6 +15,9 @@ library(ggplot2)
 library(qualtRics)
 library(lubridate)
 library(qrcode)
+library(kableExtra)
+library(stringr)
+library(tidylog)
 
 # Sign-up link:
 
