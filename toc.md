@@ -4,7 +4,7 @@
 - 9h15 [Objectifs](presentation/presentation.html#/goals)                         
 - 9h30 Configuration technique, formation possible d'équipes
 - 9h45 🔒*[Exercice pratique : Un exemple très imparfait](https://larsvilhuber.github.io/summer-school-qicss-2025/presentation/01-very-imperfect-example.html)*
-- 10h00 **Day 1** : [Se préparer à la reproductibilité](https://larsvilhuber.github.io/day1-tutorial/)
+- 10h00 **Day 1** : [Se préparer à la reproductibilité](https://larsvilhuber.github.io/day1-tutorial/) ([version R](solution-R.md))
 
 - 11h30 Tout documenter : [Comment documenter correctement un paquet de réplication](https://larsvilhuber.github.io/readme-presentation/) (et pourquoi !)
 
@@ -14,5 +14,5 @@
 - 13h15 [Comment exécuter Stata !](presentation/presentation.html#how-to-run-stata) ou R ! (de manière reproductible)
 - 14h00 Supplément : [Comment installer des paquets Stata](https://larsvilhuber.github.io/self-checking-reproducibility/12-environments-in-stata.html)
 - 15h00 Pause
-- 15h15 **Préparation d'un projet reproductible** (interactif)
+- 15h15 **Préparation d'un projet reproductible** ([lien](https://docs.google.com/document/d/1TarolaCJRIJM-pel7Rj1NNHJc-bBOmjuJSlILdSjXxs/edit?usp=sharing))
 - 16h00 Fin de journée
