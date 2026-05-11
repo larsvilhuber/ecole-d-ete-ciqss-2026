@@ -48,6 +48,7 @@ WEBSITE_URL <- paste0("https://", GITHUB_REPOSITORY_PARTS[1], ".github.io/", GIT
 # you can find this with all_surveys() %>% arrange(creationDate) %>% head()
 
 QUALTRICS_FULL_URL <- "https://cornell.yul1.qualtrics.com/jfe/form"
+QUALTRICS_DAY1 <- "SV_bBqbJ9cSSJdOBw2"
 
 # Public Qualtrics URL for day 2
 
@@ -55,6 +56,8 @@ QUALTRICS_DAY2 <- "SV_cNkhKL69K2Ob7o2"
 
 # Time when this was posted (discard anything before that)
 
+QUALTRICS_DAY1_OTIME <- ymd_hms("2025-01-01 23:59:00")
+QUALTRICS_DAY1_STIME <- ymd_hms("2026-05-09 23:59:00")
 QUALTRICS_DAY2_STIME <- ymd_hms("2026-04-30 23:59:00")
 QUALTRICS_DAY2_ETIME <- ymd_hms("2026-05-26 23:59:00")
 
@@ -105,6 +108,59 @@ plot(code)
 
 ```
 
+## Connaissances
+
+Nous voulons mieux vous connaître, pour adapter le contenu du workshop à vos besoins. Veuillez remplir ce sondage (cela ne devrait pas prendre plus de 5 minutes) :
+
+
+## Survey 1
+
+Please fill out this survey on background and skills, to provide us with information on who you are. It will help us improve the presentation, and make it more relevant for you.
+
+:::::: {.columns}
+::: {.column}
+
+<`r file.path(QUALTRICS_FULL_URL,QUALTRICS_DAY1)`>
+
+:::
+::: {.column}
+
+```{r qrcode2}
+#| echo: false
+
+code2 <- qr_code(file.path(QUALTRICS_FULL_URL,QUALTRICS_DAY1))
+plot(code2)
+
+```
+
+:::
+::::::
+
+
+### Résultats précédents
+
+
+*Dernière mise à jour: `r format(Sys.time(), "%d %B %Y, %H:%M")`*
+
+> Toutes les réponses entre `r format(QUALTRICS_DAY1_STIME, "%d %B %Y")` et `r format(QUALTRICS_DAY2_ETIME, "%d %B %Y")`.
+
+```{r downloaddata, child=c(here::here('pieces','01_downloaddata.Rmd'))}
+```
+
+```{r education, child=c(here::here('pieces','02_table_education.Rmd'))}
+```
+
+```{r os, child=c(here::here('pieces','02_table_os.Rmd'))}
+```
+
+
+```{r lang, child=c(here::here('pieces','02_table_lang.Rmd'))}
+```
+
+```{r cmdline, child=c(here::here('pieces','02_table_cmdline.Rmd'))}
+```
+
+
 
 ## Jour 1
 
@@ -134,7 +190,7 @@ Pour identifier le sujet dont nous devrions (possiblement) parler lors du jour 2
 
 <`r file.path(QUALTRICS_FULL_URL,QUALTRICS_DAY2)`>
 
-### Résultats
+### Résultats Jour 2
 
 ```{r downloaddata2,include=FALSE}
 # download data to local location
@@ -167,7 +223,7 @@ data2 |>
 
 data2.table |> kable()
 } else {
-  cat("Pas encore de données. Revenez plus tard.")
+  cat("Aucune réponse pour l'instant. Revenez plus tard.")
 }
 ```
 
