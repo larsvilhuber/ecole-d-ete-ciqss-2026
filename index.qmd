@@ -110,12 +110,8 @@ plot(code)
 
 ## Connaissances
 
-Nous voulons mieux vous connaître, pour adapter le contenu du workshop à vos besoins. Veuillez remplir ce sondage (cela ne devrait pas prendre plus de 5 minutes) :
+Nous voulons mieux vous connaître, pour adapter le contenu du workshop à vos besoins. Veuillez remplir ce sondage (cela ne devrait pas prendre plus de 5 minutes) (en anglais seulement):
 
-
-## Survey 1
-
-Please fill out this survey on background and skills, to provide us with information on who you are. It will help us improve the presentation, and make it more relevant for you.
 
 :::::: {.columns}
 ::: {.column}
