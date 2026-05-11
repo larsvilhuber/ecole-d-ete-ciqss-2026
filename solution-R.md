@@ -1,5 +1,7 @@
 # Solution to the Day 1 exercise in R
 
+## `main.R`
+
 ```r
 
 # master file
@@ -22,4 +24,24 @@ if (!file.exists(results))  {
 
 
 source(file.path(codedir,"download.R"), echo=TRUE)
+```
+
+## `download.R`
+
+```r
+# Ceci est mon code R
+
+## Modules
+
+## Parametres
+
+URL = "https://www.cepii.fr/distance/dist_cepii.dta"
+dyadic = file.path(datadir,"dist_cepii.dta")
+
+if (file.exists(dyadic)) {
+  message("Utilisation du fichier existant")
+} else {
+  message("Telechargement du fichier")
+  download.file(url=URL,destfile=dyadic)
+}
 ```
