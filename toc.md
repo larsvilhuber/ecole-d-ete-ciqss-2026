@@ -14,5 +14,5 @@
 - 13h15 [Comment exécuter Stata !](presentation/presentation.html#how-to-run-stata) ou R ! (de manière reproductible)
 - 14h00 Supplément : [Comment installer des paquets Stata](https://larsvilhuber.github.io/self-checking-reproducibility/12-environments-in-stata.html)
 - 15h00 Pause
-- 15h15 **Préparation d'un projet reproductible** ([lien](https://docs.google.com/document/d/1TarolaCJRIJM-pel7Rj1NNHJc-bBOmjuJSlILdSjXxs/edit?usp=sharing))
+- 15h15 **Préparation d'un projet reproductible** ([lien enlevé])
 - 16h00 Fin de journée
